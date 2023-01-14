@@ -1,0 +1,5 @@
+-setup database for rooms:
+-hosting/joining in rooms:
+-manager for session clients:
+-chat app for every room
+-disconnecting clients
